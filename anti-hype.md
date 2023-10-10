@@ -1,7 +1,8 @@
+---
 layout: page
 title: "anti-hype"
-permalink: anti-hype
-
+permalink: /anti-hype/
+---
 ## Becoming an Anti-Hype Data Engineer
 
 I have been working in data engineering for about eight years now. When I started, I caught the tail end of the Hadoop era. I got my start on a technology known then as MapR at a boutique energy firm in Houston, Texas. This was a period of personal growth and learning, from Python, Spark, Scala, Docker, Airflow, and how to check in code to GitLab. It was an exciting time. As a junior developer, you are more fascinated by what you can do with a language rather than what you can solve. This is the way.
