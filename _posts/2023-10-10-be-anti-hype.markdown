@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Become an Anti-Hype Data Engineer"
+title:  "Anti-Hype_Data_Engineer"
 date:   2023-10-10 22:57:23 +0200
 categories: Data Engineering
 ---
