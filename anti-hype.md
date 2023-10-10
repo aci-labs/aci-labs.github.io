@@ -1,6 +1,6 @@
 layout: page
 title: "anti-hype"
-permalink: /data-artisans/anti-hype
+permalink: anti-hype
 
 ## Becoming an Anti-Hype Data Engineer
 
