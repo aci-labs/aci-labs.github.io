@@ -34,6 +34,15 @@ theme: jekyll-theme-modernist
 plugins:
   - jekyll-remote-theme
 
+exclude:
+  - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock
+  - .travis.yml
+  - .gitignore
+  - CNAME
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
