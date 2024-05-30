@@ -35,13 +35,13 @@ plugins:
   - jekyll-remote-theme
 
 exclude:
-  - README.md
-  - LICENSE.md
   - Gemfile
   - Gemfile.lock
-  - .travis.yml
-  - .gitignore
-  - CNAME
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
